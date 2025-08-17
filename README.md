@@ -1,9 +1,9 @@
 
 ### Welcome, I'm Maria Eduarda!
 
-    ⭐About me
+⭐About me
     
-    I am a computer engineering student and beginner in programming. Interested in a software development and aiming to grow continuously over the coming year with challenging projects.
+I am a computer engineering student and beginner in programming. Interested in a software development and aiming to grow continuously over the coming year with challenging projects.
 
 
 
