@@ -1,6 +1,8 @@
 
 ### Welcome, I'm Maria Eduarda!
 
+<img width="5760" height="1600" alt="New Piskel (1)" src="https://github.com/user-attachments/assets/491131eb-8071-493b-8e09-5b921f6ef219" />
+
 ⭐About me
     
 I am a Computer Engineering student and beginner in programming. Interested in a software development and aiming to grow continuously over the coming year with challenging projects.
