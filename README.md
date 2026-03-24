@@ -18,7 +18,7 @@
 
 | Experiência | Habilidades |
 |-------------|-------------|
-| 👩‍🏫 Monitoria de Informática Básica | Liderança trabalho em equipe, organização |
+| 👩‍🏫 Monitoria de Informática Básica | Liderança, trabalho em equipe, organização |
 
 <h2>💻 Em aprendizado ativo </h2>
 
