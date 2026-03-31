@@ -29,8 +29,9 @@
 | **React** | Iniciante | Componentes, Hooks | ⏸️ Pausado |
 | **Vite** | Iniciante | Build tool, Dev environment | ⏸️ Pausado |
 | **C** | Intermediário | Lógica, Embarcados | 🔄 Consolidando |
+| **R ** | Iniciante | Estatística, Visualização de dados | 📚 Iniciando
 
-[![card](https://github-readme-stats.vercel.app/api?username=mariasaldanhaa&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=mariasaldanhaa&theme=synthwave)]
 
 <h2>📫 Contato</h2>
 
