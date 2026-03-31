@@ -29,13 +29,15 @@
 | **React** | Iniciante | Componentes, Hooks | ⏸️ Pausado |
 | **Vite** | Iniciante | Build tool, Dev environment | ⏸️ Pausado |
 | **C** | Intermediário | Lógica, Embarcados | 🔄 Consolidando |
-| **R ** | Iniciante | Estatística, Visualização de dados | 📚 Iniciando
+| **R** | Iniciante | Estatística, Visualização de dados | 📚 Iniciando
 
-[![card](https://github-readme-stats.vercel.app/api?username=mariasaldanhaa&theme=synthwave)]
+<div align="center">
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=mariasaldanhaa&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
 
 <h2>📫 Contato</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maria-eduarda-saldanha-alves-243040376)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dev.mariasaldanha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-saldanha-alves-243040376)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.mariasaldanha@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariasaldanhaa)
 </div>
