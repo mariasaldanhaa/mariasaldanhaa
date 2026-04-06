@@ -28,7 +28,7 @@
 | **JavaScript** | Básico/Intermediário | Frontend, Lógica | 🔄 Praticando |
 | **React** | Iniciante | Componentes, Hooks | ⏸️ Pausado |
 | **Vite** | Iniciante | Build tool, Dev environment | ⏸️ Pausado |
-| **C** | Intermediário | Lógica, Embarcados | 🔄 Consolidando |
+| **C/C++** | Intermediário | Lógica, Embarcados | 🔄 Consolidando |
 | **R** | Iniciante | Estatística, Visualização de dados | 📚 Iniciando |
 
 <div align="center">
