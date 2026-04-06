@@ -32,7 +32,7 @@
 | **R** | Iniciante | Estatística, Visualização de dados | 📚 Iniciando
 
 <div align="center">
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=mariasaldanhaa&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  ![Github](https://awesome-github-stats.azurewebsites.net/user-stats/mariasaldanhaa?cardType=level)
 </div>
 
 <h2>📫 Contato</h2>
