@@ -29,10 +29,10 @@
 | **React** | Iniciante | Componentes, Hooks | ⏸️ Pausado |
 | **Vite** | Iniciante | Build tool, Dev environment | ⏸️ Pausado |
 | **C** | Intermediário | Lógica, Embarcados | 🔄 Consolidando |
-| **R** | Iniciante | Estatística, Visualização de dados | 📚 Iniciando
+| **R** | Iniciante | Estatística, Visualização de dados | 📚 Iniciando |
 
 <div align="center">
-  ![Github](https://awesome-github-stats.azurewebsites.net/user-stats/mariasaldanhaa?cardType=level)
+  ![Github](https://awesome-github-stats.azurewebsites.net/user-stats/mariasaldanhaa?cardType=level&theme=github-dark)
 </div>
 
 <h2>📫 Contato</h2>
