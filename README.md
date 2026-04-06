@@ -32,7 +32,7 @@
 | **R** | Iniciante | Estatística, Visualização de dados | 📚 Iniciando |
 
 <div align="center">
-  ![Github](https://awesome-github-stats.azurewebsites.net/user-stats/mariasaldanhaa?cardType=level&theme=github-dark)
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/mariasaldanhaa?cardType=level&theme=github-dark" />
 </div>
 
 <h2>📫 Contato</h2>
