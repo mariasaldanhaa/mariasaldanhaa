@@ -24,7 +24,7 @@
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/mariasaldanhaa?cardType=level&theme=github-dark" />
 </td>
 
-<td width="50%" valign="top" style="border: none; padding-left: 20px;">
+<td width="60%" valign="top" style="border: none; padding-left: 20px;">
 <h2>💻 Tecnologias & Ferramentas</h2>
 
       
