@@ -1,6 +1,6 @@
 <div align="center">
 <h1>👋 Olá, eu sou a Maria Eduarda!</h1>
-<img width="90%" height="350px" alt="Gif com a escrita 'Hello, World!'" src="banner.gif" />
+<img width="90%" height="400px" alt="Gif com a escrita 'Hello, World!'" src="banner.gif" />
 </div>
 
 <hr>
@@ -43,8 +43,6 @@
 </td>
 </tr>
 </table>
-
-<hr>
 
 <div align="center">
 <h2>📫 Contato</h2>
