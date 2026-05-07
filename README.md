@@ -1,40 +1,54 @@
 <div align="center">
-<h1>👋Olá, eu sou a Maria Eduarda!</h1>
-
-<img alt="Gif com a escrita 'Hello, World!'" src="banner.gif" />
+<h1>👋 Olá, eu sou a Maria Eduarda!</h1>
+<img width="90%" height="350px" alt="Gif com a escrita 'Hello, World!'" src="banner.gif" />
+</div>
 
 <hr>
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top" style="border: none; padding-right: 20px;">
 <h2>🚀 Sobre mim</h2>
+<p>
+    Sou estudante de Engenharia de Computação. Atualmente focando em desenvolver projetos práticos e 
+    contribuir com a comunidade, transformando teoria em 
+    soluções reais.
+</p>
 
-- **🎓 Formação:** Estudante de Engenharia de Computação no IFMG - Campus Bambuí (3/10)
+<ul>
+<li>🎓 Estudante de Engenharia de Computação no IFMG - Campus Bambuí (3/10)</li>
+<li>🎯 Desenvolvedora Web em formação</li>
+<li>🤖 Interesse em Sistemas Embarcados e Machine Learning</li>
+</ul>
 
-<h2> 🧭 Interesses </h2>
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/mariasaldanhaa?cardType=level&theme=github-dark" />
+</td>
 
-- **Principal:** Desenvolvimento Web 🎯
-- **Exploração:** Sistemas Embarcados 🤖 e Machine Learning 📊
+<td width="50%" valign="top" style="border: none; padding-left: 20px;">
+<h2>💻 Tecnologias & Ferramentas</h2>
 
-<h2>🌟 Soft Skills em Destaque</h2>
+<div align="center">
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="50" height="50" alt="Vite"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" alt="R"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+</p>
+</div>
+</td>
+</tr>
+</table>
 
-| Experiência | Habilidades |
-|-------------|-------------|
-| 👩‍🏫 Monitoria de Informática Básica | Liderança, trabalho em equipe, organização |
+<hr>
 
-<h2>💻 Em aprendizado ativo </h2>
-
-| Tecnologia | Nível | Aplicação | Status |
-|------------|-------|-----------|---------|
-| **Java** | Iniciante | POO, Backend | 📚 Iniciando |
-| **JavaScript** | Básico/Intermediário | Frontend, Lógica | 🔄 Praticando |
-| **React** | Iniciante | Componentes, Hooks | ⏸️ Pausado |
-| **Vite** | Iniciante | Build tool, Dev environment | ⏸️ Pausado |
-| **C** | Intermediário | Lógica, Embarcados | 🔄 Consolidando |
-
-[![card](https://github-readme-stats.vercel.app/api?username=mariasaldanhaa&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
 <h2>📫 Contato</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maria-eduarda-saldanha-alves-243040376)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dev.mariasaldanha@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariasaldanhaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-saldanha-alves-243040376)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.mariasaldanha@gmail.com)
 </div>
